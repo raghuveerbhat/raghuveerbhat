@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: raghuveer.9bhat[AT]gmail.com
 
+<!--
+![Raghuveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghuveerbhat&show_icons=true&theme=radical)
+-->
