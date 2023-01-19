@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning and contributing to [Ivy](https://github.com/unifyai/ivy) and [Scikit Learn](https://github.com/scikit-learn/scikit-learn).
+- 🧠 Recently I've been dabbling with brain MR images at [AINOSTICS](https://www.ainostics.com/) to derive insights using deep learning.
+- 🌱 I’ve contributed to [Ivy](https://github.com/unifyai/ivy) and [Scikit Learn](https://github.com/scikit-learn/scikit-learn).
 - 💬 Ask me about anything!!!
 - 📫 How to reach me: raghuveer.9bhat[AT]gmail.com
 
